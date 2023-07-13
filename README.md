@@ -1,4 +1,7 @@
 # Data_Science_Salary_EDA
+# Objective
+The objective of this project is to provide valuable insights into the salaries of data science professionals from 2020 to 2023. The dataset is a comprehensive collection of salary information from various industries, experience levels, and geographic locations.
+
 # Summary
 Welcome to the "Data Science Salaries 2023" dataset repository on GitHub! This dataset provides valuable insights into the salaries of data science professionals from 2020 to 2023. It is a comprehensive collection of salary information from various industries, experience levels, and geographic locations.
 
@@ -23,8 +26,13 @@ The dataset is sourced from Kaggle, a popular platform for data science competit
 
 9. Remote Ratio: The "Remote Ratio" column indicates the proportion or percentage of remote work involved in the data science professional's job. It helps understand the extent to which remote work is a part of their work arrangement.
 
-10. Company Location: This column represents the geographic location of the company or organization where the data science professional is employed. It provides information about the city, region, or country where the company is located.
+10. Company Location: This column represents the geographic location of the company or organization where the data science professional is employed. It provides
+11. information about the city, region, or country where the company is located.
 
-11. Company Size: The "Company Size" column denotes the size or scale of the company or organization where the data science professional works. It may include categories such as small, medium, or large, indicating the number of employees in the company.
+12. Company Size: The "Company Size" column denotes the size or scale of the company or organization where the data science professional works. It may include categories such as small, medium, or large, indicating the number of employees in the company.
 
 These columns collectively provide valuable information about the data science salaries, employment details, and related factors, allowing users to explore salary trends, experience levels, employment types, and company characteristics in the dataset.
+
+# Final Result :
+
+The final result of the project is a cleaned and analyzed dataset that can be used to gain a better understanding of the current salary trends and factors that influence compensation in the data science industry. The dataset can be used by data scientists, businesses, and other stakeholders to make informed decisions about salary negotiations, compensation planning, and recruitment.
